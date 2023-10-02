@@ -1,8 +1,8 @@
 {
   "name": "blog-cms",
   "private": true,
-  "version": "0.2.0",
-  "description": "My blog CMS",
+  "version": "0.0.0",
+  "description": "Satafti blog CMS",
   "author": "S. Amir Mohammad Najafi <njfamirm@gmail.com>",
   "scripts": {
     "f": "yarn format",

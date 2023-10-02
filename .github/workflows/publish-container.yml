@@ -31,8 +31,8 @@ jobs:
       fail-fast: true
       matrix:
         include:
-          - image: njfamirm-blog-cms
-            description: Njfamirm personal website CMS.
+          - image: satafti-blog-cms
+            description: Satafti personal website CMS.
 
     permissions:
       contents: read
